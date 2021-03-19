@@ -6,4 +6,6 @@
 
 Paczka serwera AriviRP, udostępniam ją ponieważ nie otrzymałem obiecanego wynagrodzenia.
 <p></p>
-Paczkę robiłem sam z małą pomocą użytkownika "k0ssek".
+Paczkę robiłem sam z pomocą użytkownika "k0ssek".
+
+ https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k
