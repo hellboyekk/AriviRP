@@ -9,3 +9,7 @@ Paczka serwera AriviRP, udostępniam ją ponieważ nie otrzymałem obiecanego wy
 Paczkę robiłem sam z pomocą użytkownika "k0ssek".
 
  https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k
+
+EUP: https://mega.nz/folder/klYS3bSa#e1F_eDLjozZH_8GB7Uc7TQ
+INTERIORY: https://mega.nz/folder/49gnlK5a#Uicyg4ZYGTrjmJmu2PaeKQ
+AUTA: https://mega.nz/folder/0pxHFIpD#aTCMYc1RWmodwnMdhz5jng
