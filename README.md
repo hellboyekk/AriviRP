@@ -5,4 +5,4 @@
 [![Discord](https://discordapp.com/api/guilds/690686401469087756/embed.png)](https://discord.gg/wrSqK6k)
 
 Paczka serwera AriviRP, udostępniam ją ponieważ nie otrzymałem obiecanego wynagrodzenia.
-Właścicieli serwera nie było stać na opłatę moich usług ;p
+Właścicieli serwera nie było stać na opłatę moich usług dlatego postanowili mnie wyrzucic ;p
