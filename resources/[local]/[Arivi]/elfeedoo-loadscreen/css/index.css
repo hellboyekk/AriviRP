@@ -1,0 +1,369 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+
+@font-face 
+{
+    font-family: 04B_30__;
+    src: url(../fonts/04B_30__.TTF);
+}
+
+@keyframes slideright {
+    0%   {margin-left:0px}
+    100% {margin-left:110% }
+}
+@keyframes zoomin {
+    0% {width:100%;height: 100%; opacity: 0.3}
+    50% {width: 300%;height: 300%;opacity: 0}
+    100% {width:100%;height: 100%;opacity:0.3}
+}
+
+body
+{
+  overflow: hidden;
+  background-color: rgb(30,30,30);
+  box-shadow: 0 0 500px rgba(0,1,1,1) inset;
+  background-color: rgb(30,30,30);
+  margin: 0;
+}
+
+#needed
+{
+  position: none;
+}
+
+#backgroundv
+{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+#background
+{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    z-index: -2;
+    opacity: 0.3;
+    transition: opacity 1s; 
+}
+#background2 {
+    opacity:0;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    z-index: -2;
+    opacity:0;
+    transition: opacity 1s; 
+}
+.slideright {
+    animation-name: slideright;
+    animation-duration: 3.2s;
+}
+
+.zoomin
+{
+    
+    animation-name: zoomin;
+    animation-duration: 4.2s;
+    justify-content: center;
+    
+
+}
+
+*
+{
+    font-family: Rajdhani;
+    color: rgb(230,230,230);  
+
+    animation-name: hammer;
+    animation-duration: 10s;
+}
+
+#logo
+{
+    max-width: 412;
+    max-height: 412;
+
+    display: block;
+    margin: auto;
+	  padding-top: 15%;
+}
+
+#partner {
+  width: 360px;
+  border: 2px solid;
+  border-color: #000;
+  border-radius: 9px;
+  box-shadow: 1px 1px 10px #000;
+  position: relative;
+  left: 1535;
+  top: 265;
+}
+
+.content-container
+{
+    display: block;
+    margin: auto;
+
+    width: 60%;
+}
+
+/*
+    Progressbar styling.
+*/
+progress
+{
+    margin-top: 5px;
+}
+
+progress[value] 
+{
+   -webkit-appearance: none;
+   appearance: none;
+
+   width: 100%;
+   height: 30px;
+}
+
+progress[value]::-webkit-progress-bar
+{
+  background-color: rgba(60,60,60,0.45);
+  border: 2px solid;
+  border-color: rgba(253,159,97,0.85);
+  border-radius: 7px;
+  box-shadow: 0px 0px 15px black inset;
+}
+
+progress::-webkit-progress-value
+{
+    animation-name: example;
+    animation-duration: 10s;
+    animation-play-state: running;
+    border-radius: 0px;
+    background-size: 60px 30px, 100% 100%, 100% 100%;
+}
+
+.pbCollapse
+{
+    width: 24.63% !important
+
+}
+
+.stick-to-right
+{
+    float:right;
+}
+
+.hide 
+{
+    display: none;
+}
+
+.loading-text
+{
+    display: inline-block;
+}
+#message 
+{
+  
+}
+
+.messageBox {
+  font-family: 04B_30__;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0px 0px 100px black inset;
+  }
+  .soonbyte {
+  
+    font-family: nfs;
+       color: rgb(235, 47, 235);
+       font-size: 24px;
+       margin-left: 8cm;
+       text-shadow: 0px 0px 10px #cf2df0;
+   }
+  
+  .icon {
+    -webkit-user-select: none;
+    user-select: none;
+    display: inline-block;
+  }
+  
+  .icon-offline {
+    content: -webkit-image-set( url(assets/default_100_percent/100-error-offline.png) 1x, url(assets/default_200_percent/200-error-offline.png) 2x);
+    position: relative;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  
+  /* Offline page */
+  
+  .offline .interstitial-wrapper {
+    color: #0e0e0e;
+    font-size: 1em;
+    line-height: 1.55;
+    margin: 0 auto;
+    max-width: 600px;
+    padding-top: 100px;
+    width: 100%;
+  }
+  
+  .offline .runner-container {
+    height: 420px;
+    max-width: 600px;
+    overflow: hidden;
+    position: absolute;
+    top: 420px;
+    width: 44px;
+  }
+  
+  .offline .runner-canvas {
+    height: 420px;
+    max-width: 600px;
+    opacity: 1;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    z-index: 2;
+  }
+  
+  .offline .controller {
+    background: rgba(247, 247, 247, .1);
+    height: 100vh;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    z-index: 1;
+  }
+  
+  #offline-resources {
+    display: none;
+  }
+  
+  @media (max-width: 600px) {
+    .suggested-left > #control-buttons, .suggested-right > #control-buttons {
+      float: none;
+    }
+    .snackbar {
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      border-radius: 0;
+    }
+  }
+  
+  @media (max-height: 350px) {
+    h1 {
+      margin: 0 0 15px;
+    }
+    .icon-offline {
+      margin: 0 0 10px;
+    }
+    .interstitial-wrapper {
+      margin-top: 5%;
+    }
+    .nav-wrapper {
+      margin-top: 30px;
+    }
+  }
+  
+  @media (min-width: 600px) and (max-width: 736px) and (orientation: landscape) {
+    .offline .interstitial-wrapper {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+  
+  @media (min-width: 420px) and (max-width: 736px) and (min-height: 240px) and (max-height: 420px) and (orientation:landscape) {
+    .interstitial-wrapper {
+      margin-bottom: 100px;
+    }
+  }
+  
+  @media (min-height: 240px) and (orientation: landscape) {
+    .offline .interstitial-wrapper {
+      margin-bottom: 90px;
+    }
+    .icon-offline {
+      margin-bottom: 20px;
+    }
+  }
+  
+  @media (max-height: 320px) and (orientation: landscape) {
+    .icon-offline {
+      margin-bottom: 0;
+    }
+    .offline .runner-container {
+      top: 10px;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .interstitial-wrapper {
+      overflow: inherit;
+      padding: 0 8px;
+    }
+  }
+
+
+  /*
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+https://discord.gg/XHTBdFcfNP STAR LEAKS
+*/
