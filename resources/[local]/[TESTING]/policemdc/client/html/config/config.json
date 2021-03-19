@@ -1,0 +1,31 @@
+{
+    "departmensVariations": {
+        "lspd": {
+            "logo": "bcsoLogo.png",
+            "displayName": "Blaine County Sheriff Office"
+        },
+        "sasp": {
+            "logo": "bcsoLogo.png",
+            "displayName": "Blaine County Sheriff Office"
+        }
+    },
+    "convictions": [
+        {
+            "categoryName": "Przestępstwa związane z pozbawieniem życia",
+            "items": [
+                {
+                    "name": "Nazwa wyroku jakaś dużo dłuzsza np",
+                    "description": "Opis wyroku",
+                    "length": 20,
+                    "fee": 500
+                },
+                {
+                    "name": "Jakiś inny wyrok",
+                    "description": "Dokładniejszy opis wyroku",
+                    "length": 20,
+                    "fee": 500
+                }
+            ]
+        },
+    ]
+}
