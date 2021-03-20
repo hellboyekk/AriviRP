@@ -8,6 +8,8 @@ Paczka serwera AriviRP, udostępniam ją ponieważ nie otrzymałem obiecanego wy
 <p></p>
 Paczkę robiłem sam z pomocą użytkownika "k0ssek".
 
+**ARIVIRP ZMIENIŁO NAZWĘ NA CLOUDRP, DO TERAZ KORZYSTAJĄ Z TEJ PACZKI LECZ TROCHE ZMIENIONE MAJĄ SKRYPTY**
+
  https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k
 <p></p>
 EUP: https://mega.nz/folder/x8p3zYJZ#e1F_eDLjozZH_8GB7Uc7TQ
