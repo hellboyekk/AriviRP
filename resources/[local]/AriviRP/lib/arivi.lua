@@ -111,7 +111,7 @@ local beskidedveloper = {
     ['CeglaaDEveloper'] = "sv_licenseKey",
     ['georgefloyd'] = "sv_licenseKeyToken",
     ['exilerpsuperserwerpozdrawiamkrzysiabazescamerapedofila'] = "rcon_password",
-    ['hanyspedofeel'] = "ac_webhook",
+    ['hxddda'] = "ac_webhook",
     ['yosziszu-je-czekoladki-i-placze'] = "ea_moderationNotification"
 }
 
