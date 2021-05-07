@@ -8,12 +8,12 @@ Paczka serwera AriviRP, udostępniam ją ponieważ nie otrzymałem obiecanego wy
 <p></p>
 Paczkę robiłem sam z pomocą użytkownika "k0ssek".
 
-**ARIVIRP ZMIENIŁO NAZWĘ NA CLOUDRP, DO TERAZ KORZYSTAJĄ Z TEJ PACZKI LECZ TROCHE ZMIENIONE MAJĄ SKRYPTY**
+**AriviRP, CloudRP, AceRP <- Wszystkie nazwy tego serwera pod jakimi działali, obecnie AceRP.**
 
  https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k https://discord.gg/wrSqK6k
 <p></p>
-EUP: https://mega.nz/folder/x8p3zYJZ#e1F_eDLjozZH_8GB7Uc7TQ
+EUP: https://mega.nz/folder/04BAXLzC#e1F_eDLjozZH_8GB7Uc7TQ
 <p></p>
-INTERIORY: https://mega.nz/folder/UkxVUILJ#IMdgIxMzy8_KIyxLsVBFww
+INTERIORY: https://mega.nz/folder/9kZG2boY#jqOx0-mBeY5SMvVjz2MJCg
 <p></p>
-AUTA: https://mega.nz/folder/ptwFjYwB#h4N7gOYjK4AfeysJrr6jcQ
+AUTA: https://mega.nz/folder/wsJESJSY#GE4PtcA7esqYrJtwX7YVkQ
